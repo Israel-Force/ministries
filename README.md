@@ -1,6 +1,6 @@
 # About
 
-Website built for the ministry of information and culture to display the details of \ 
+Website built for the ministry of information and culture to display the details of
 the Federal Ministries in the country
 
 # Getting Started
