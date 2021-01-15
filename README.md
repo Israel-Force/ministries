@@ -7,6 +7,9 @@ the Federal Ministries in the country
 
 Clone the repo by copying the link or downloading the zip file
 
+## Live
+for live view visit:  https://israel-force.github.io/ministries/
+
 ## Available Scripts
 
 In the project directory, you can run:
